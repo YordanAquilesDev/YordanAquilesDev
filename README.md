@@ -1,9 +1,9 @@
-# ¡Hola! Soy Yordan 👋
+# ¡Hola! Soy Yordan Aquiles
 
-💡 Desarrollador Full-Stack apasionado por la arquitectura de software,
+Apasionado por la arquitectura de software,
 las aplicaciones móviles modernas y la creación de experiencias digitales escalables.
 
-🎓 Estudiante de Ingeniería de Sistemas e Informática en la UTP (5to ciclo).
+ Estudiante de Ingeniería de Sistemas e Informática en la UTP (5to ciclo).
 
 ## 🧠 Enfoque de Desarrollo
 
